@@ -7,8 +7,10 @@
 * [How to handle environments inside VSCode](https://code.visualstudio.com/docs/python/environments)
 * Check the .ipynb files for some python tutorials
 * Check code.ext for some code (vscode) extensions
+
 <br>
 <br>
+
 ### Useful git commands
 * __git init__ - to initialize tracking on the current repo
 * __git status__ - git status to check the status
@@ -19,8 +21,10 @@
 * __git log__ - to check the log history
 * Always start with a git pull (or fetch and merge) to make sure your local repo is up to date
 * _A typical workflow may look like this :_
+
 <br>
 <br>
+
 ```
 git pull
 git status
@@ -28,8 +32,10 @@ git add .
 git commit -m"commit message"
 git push origin main
 ```
+
 <br>
 <br>
+
 
 ### How to setup a virtual environment with conda
 * Inside anaconda prompt
