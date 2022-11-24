@@ -1,7 +1,7 @@
 ## Get Started
 ### Cheat Sheets
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* [Git Cheat Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://education.github.com/git-cheat-sheet-education.pdf)
+* [Git Cheat Sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
 * [How to install Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 * [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 * [How to handle environments inside VSCode](https://code.visualstudio.com/docs/python/environments)
