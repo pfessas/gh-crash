@@ -5,6 +5,7 @@
 * [How to install Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 * [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 * [How to handle environments inside VSCode](https://code.visualstudio.com/docs/python/environments)
+* [Operational Research Modelling](https://www.youtube.com/watch?v=drQM-lw4P2M&list=PLRihodfxzBsWFjXJXGYX_bqXeTGmMgN_M)
 * Check the .ipynb files for some python tutorials
 * Check code.ext for some code (vscode) extensions
 
