@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Atom One Dark",
+    "python.condaPath": "C:\\Users\\FessasP\\Anaconda3\\python.exe",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Lucida Console",
+    "tabnine.experimentalAutoImports": true
+}
