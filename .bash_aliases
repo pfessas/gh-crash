@@ -9,7 +9,6 @@ alias gaa="git add ."
 
 # ----------------------------- Commit -------------------------- #
 alias gc="git commit -m"
-alias gca="git commit -am"
 
 # ----------------------------- Branch -------------------------- #
 alias gba="git branch -a"
@@ -42,6 +41,10 @@ alias grb="git rebase"
 alias gps="git push"
 alias gpl="git pull"
 alias grst="git reset"
+
+# ----------------------------- Misc ---------------------------- #
+alias gconfn='git config --global user.name'
+alias gconfe='git config --global user.email'
 
 # ----------------------------- Misc ---------------------------- #
 alias gsh="git show"
