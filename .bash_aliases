@@ -42,9 +42,10 @@ alias gps="git push"
 alias gpl="git pull"
 alias grst="git reset"
 
-# ----------------------------- Misc ---------------------------- #
+# ----------------------------- Conf ---------------------------- #
 alias gconfn='git config --global user.name'
 alias gconfe='git config --global user.email'
+alias gconfl='git config -l'
 
 # ----------------------------- Misc ---------------------------- #
 alias gsh="git show"
