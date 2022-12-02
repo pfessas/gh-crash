@@ -1,5 +1,7 @@
 ## Get Started
-### Cheat Sheets
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pfessas/gh-crash/HEAD)
+
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 * [Git Cheat Sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
 * [How to install Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
